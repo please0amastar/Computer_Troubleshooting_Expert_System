@@ -1,0 +1,554 @@
+[
+  {
+    "id": 1,
+    "problem": "Desktop No Display",
+    "symptoms": "Monitor shows nothing",
+    "possible_cause": "Loose cable, RAM, GPU",
+    "solution": "Check cables and RAM; reconnect GPU",
+    "severity": "High"
+  },
+  {
+    "id": 2,
+    "problem": "Desktop Computer does not turn on",
+    "symptoms": "No lights or fan",
+    "possible_cause": "Power cable, PSU, outlet",
+    "solution": "Check power cable and PSU",
+    "severity": "High"
+  },
+  {
+    "id": 3,
+    "problem": "Desktop overheating",
+    "symptoms": "Computer becomes very hot",
+    "possible_cause": "Dust, poor airflow, bad fan",
+    "solution": "Clean fans and improve airflow",
+    "severity": "High"
+  },
+  {
+    "id": 4,
+    "problem": "Desktop Blue Screen",
+    "symptoms": "Blue screen appears",
+    "possible_cause": "Driver or hardware problem",
+    "solution": "Update drivers and check hardware",
+    "severity": "High"
+  },
+  {
+    "id": 5,
+    "problem": "Desktop Computer is very slow",
+    "symptoms": "Programs load slowly",
+    "possible_cause": "Low RAM, full storage",
+    "solution": "Free storage and close unused apps",
+    "severity": "Medium"
+  },
+  {
+    "id": 6,
+    "problem": "Desktop Takes too long to boot",
+    "symptoms": "Long startup time",
+    "possible_cause": "Too many startup programs",
+    "solution": "Disable unnecessary startup apps",
+    "severity": "Medium"
+  },
+  {
+    "id": 7,
+    "problem": "Desktop Random shutdown",
+    "symptoms": "Computer suddenly turns off",
+    "possible_cause": "Overheating or power problem",
+    "solution": "Check temperature and power supply",
+    "severity": "High"
+  },
+  {
+    "id": 8,
+    "problem": "Desktop Random restart",
+    "symptoms": "Computer restarts by itself",
+    "possible_cause": "Hardware or Software error",
+    "solution": "Check drivers, RAM, and temperature",
+    "severity": "High"
+  },
+  {
+    "id": 9,
+    "problem": "Desktop Loud fan noise",
+    "symptoms": "Fan is very loud",
+    "possible_cause": "Dust or high temperature",
+    "solution": "Clean the fan and vents",
+    "severity": "Medium"
+  },
+  {
+    "id": 10,
+    "problem": "Desktop Keyboard not working",
+    "symptoms": "Keyboard does not respond",
+    "possible_cause": "Loose USB or faulty keyboard",
+    "solution": "Reconnect or replace keyboard",
+    "severity": "Medium"
+  },
+  {
+    "id": 11,
+    "problem": "Desktop Mouse not working",
+    "symptoms": "Mouse does not move",
+    "possible_cause": "Loose USB or faulty mouse",
+    "solution": "Reconnect or replace mouse",
+    "severity": "Low"
+  },
+  {
+    "id": 12,
+    "problem": "Desktop USB port not detecting device",
+    "symptoms": "USB device is not recognized",
+    "possible_cause": "Damaged port or driver",
+    "solution": "Try another port and update drivers",
+    "severity": "Medium"
+  },
+  {
+    "id": 13,
+    "problem": "Desktop No sound",
+    "symptoms": "No audio from speakers",
+    "possible_cause": "Muted sounds or driver issue",
+    "solution": "Check volume and audio drivers",
+    "severity": "Medium"
+  },
+  {
+    "id": 14,
+    "problem": "Desktop Internet connection unavailable",
+    "symptoms": "Cannot access internet",
+    "possible_cause": "Network or cable problem",
+    "solution": "Check network cable and router",
+    "severity": "High"
+  },
+  {
+    "id": 15,
+    "problem": "Desktop Wi-Fi keeps disconnecting",
+    "symptoms": "Wi-Fi frequently disconnects",
+    "possible_cause": "Weak signal or driver issue",
+    "solution": "Move closer to router and update driver",
+    "severity": "Medium"
+  },
+  {
+    "id": 16,
+    "problem": "Desktop Applications keep crashing",
+    "symptoms": "Apps close unexpectedly",
+    "possible_cause": "Software errors or low memory",
+    "solution": "Update or reinstall the app",
+    "severity": "Medium"
+  },
+  {
+    "id": 17,
+    "problem": "Desktop Windows update stuck",
+    "symptoms": "Update does not finish",
+    "possible_cause": "Internet or system issue",
+    "solution": "Restart and try the upgrade again",
+    "severity": "Medium"
+  },
+  {
+    "id": 18,
+    "problem": "Desktop Storage is full",
+    "symptoms": "Cannot save files",
+    "possible_cause": "Too many files",
+    "solution": "Delete unnecessary files",
+    "severity": "Medium"
+  },
+  {
+    "id": 19,
+    "problem": "Desktop System freezes",
+    "symptoms": "Computer stops responding",
+    "possible_cause": "Low memory or overheating",
+    "solution": "Restart and check the RAM/temperature",
+    "severity": "High"
+  },
+  {
+    "id": 20,
+    "problem": "Desktop Cannot install software",
+    "symptoms": "Installation fails",
+    "possible_cause": "Low storage or permissions",
+    "solution": "Free space and run installer properly",
+    "severity": "Medium"
+  },
+  {
+    "id": 21,
+    "problem": "Laptop Battery drains quickly",
+    "symptoms": "Battery loses charge fast",
+    "possible_cause": "Old battery or many apps",
+    "solution": "Reduce background apps and check battery",
+    "severity": "Medium"
+  },
+  {
+    "id": 22,
+    "problem": "Laptop does not charge",
+    "symptoms": "Battery percentage does not increase",
+    "possible_cause": "Charger or charging port problem",
+    "solution": "Check charger and charging port",
+    "severity": "High"
+  },
+  {
+    "id": 23,
+    "problem": "Laptop overheats",
+    "symptoms": "Laptop becomes very hot",
+    "possible_cause": "Dust or blocked vents",
+    "solution": "Clean vents and use proper airflow",
+    "severity": "High"
+  },
+  {
+    "id": 24,
+    "problem": "Laptop screen flickers",
+    "symptoms": "Screen flashes or blinks",
+    "possible_cause": "Driver or display cable issue",
+    "solution": "Update display driver and check cable",
+    "severity": "High"
+  },
+  {
+    "id": 25,
+    "problem": "Laptop touchpad not working",
+    "symptoms": "Cursor does not move",
+    "possible_cause": "Touchpad disabled or driver issue",
+    "solution": "Enable touchpad and update driver",
+    "severity": "Medium"
+  },
+  {
+    "id": 26,
+    "problem": "Laptop Keyboard keys not responding",
+    "symptoms": "Some keys do not work",
+    "possible_cause": "Dirt or damaged keyboard",
+    "solution": "Clean or replace keyboard",
+    "severity": "Medium"
+  },
+  {
+    "id": 27,
+    "problem": "Laptop fan is too loud",
+    "symptoms": "Fan makes loud noise",
+    "possible_cause": "Dust or overheating",
+    "solution": "Clean fan and vents",
+    "severity": "Medium"
+  },
+  {
+    "id": 28,
+    "problem": "Laptop shuts down unexpectedly",
+    "symptoms": "Laptop turns off suddenly",
+    "possible_cause": "Overheating or battery problem",
+    "solution": "Check temperature and battery",
+    "severity": "High"
+  },
+  {
+    "id": 29,
+    "problem": "Laptop cannot connect to Wi-Fi",
+    "symptoms": "Wi-Fi will not connect",
+    "possible_cause": "Driver or router problem",
+    "solution": "Restart Wi-Fi and update driver",
+    "severity": "Medium"
+  },
+  {
+    "id": 30,
+    "problem": "Laptop takes too long to start",
+    "symptoms": "Slow startup",
+    "possible_cause": "Too many startup programs",
+    "solution": "Disable unnecessary startup apps",
+    "severity": "Medium"
+  },
+  {
+    "id": 31,
+    "problem": "Smartphone does not turn on",
+    "symptoms": "Screen stays black",
+    "possible_cause": "Empty battery or system error",
+    "solution": "Charge phone and force restart",
+    "severity": "High"
+  },
+  {
+    "id": 32,
+    "problem": "Smartphone battery drains quickly",
+    "symptoms": "Battery runs out fast",
+    "possible_cause": "Background apps or old battery",
+    "solution": "Close apps and reduce battery use",
+    "severity": "Medium"
+  },
+  {
+    "id": 33,
+    "problem": "Smartphone overheats",
+    "symptoms": "Phone becomes very hot",
+    "possible_cause": "Heavy apps or charging",
+    "solution": "Close apps and let phone cool",
+    "severity": "High"
+  },
+  {
+    "id": 34,
+    "problem": "Smartphone is running slowly",
+    "symptoms": "Apps respond slowly",
+    "possible_cause": "Full storage or too many apps",
+    "solution": "Free storage and close apps",
+    "severity": "Medium"
+  },
+  {
+    "id": 35,
+    "problem": "Smartphone touchscreen not responding",
+    "symptoms": "Touch does not work",
+    "possible_cause": "Screen damage or system error",
+    "solution": "Restart and check screen",
+    "severity": "High"
+  },
+  {
+    "id": 36,
+    "problem": "Smartphone cannot connect to Wi-Fi",
+    "symptoms": "Wi-Fi will not connect",
+    "possible_cause": "Wrong password or network issue",
+    "solution": "Reconnect to Wi-fi and restart router",
+    "severity": "Medium"
+  },
+  {
+    "id": 37,
+    "problem": "Smartphone Mobile data not working",
+    "symptoms": "No internet using mobile data",
+    "possible_cause": "Data disabled or signal problem",
+    "solution": "Enable mobile data and check signal",
+    "severity": "Medium"
+  },
+  {
+    "id": 38,
+    "problem": "Smartphone Bluetooth not connecting",
+    "symptoms": "Device will not pair",
+    "possible_cause": "Bluetooth error or distance",
+    "solution": "Restart Bluetooth and move closer",
+    "severity": "Low"
+  },
+  {
+    "id": 39,
+    "problem": "Smartphone Apps keep crashing",
+    "symptoms": "Apps close suddenly",
+    "possible_cause": "Outdated app or low storage",
+    "solution": "Update/reinstall app and free storage",
+    "severity": "Medium"
+  },
+  {
+    "id": 40,
+    "problem": "Smartphone Phone storage is full",
+    "symptoms": "Cannot save files",
+    "possible_cause": "Too many apps/photos",
+    "solution": "Delete or move unnecessary files",
+    "severity": "Medium"
+  },
+  {
+    "id": 41,
+    "problem": "Smartphone Camera not working",
+    "symptoms": "Camera will not open",
+    "possible_cause": "App or camera error",
+    "solution": "Restart phone or update camera app",
+    "severity": "Medium"
+  },
+  {
+    "id": 42,
+    "problem": "Smartphone Microphone not working",
+    "symptoms": "Other people cannot hear you",
+    "possible_cause": "Blocked or damaged microphone",
+    "solution": "Clean microphone and check permissions",
+    "severity": "High"
+  },
+  {
+    "id": 43,
+    "problem": "Smartphone speaker has no sound",
+    "symptoms": "No sound from speaker",
+    "possible_cause": "Muted or speaker problem",
+    "solution": "Check volume and restart phone",
+    "severity": "Medium"
+  },
+  {
+    "id": 44,
+    "problem": "Smartphone Phone cannot charge",
+    "symptoms": "Battery does not charge",
+    "possible_cause": "Cable, charger, or port problem",
+    "solution": "Try another charger and clean port",
+    "severity": "High"
+  },
+  {
+    "id": 45,
+    "problem": "iPad/Tablet Screen keeps freezing",
+    "symptoms": "Screen stops responding",
+    "possible_cause": "Software or memory problem",
+    "solution": "Restart and update service",
+    "severity": "Medium"
+  },
+  {
+    "id": 46,
+    "problem": "iPad/Tablet does not turn on",
+    "symptoms": "Screen stays black",
+    "possible_cause": "Empty battery or system error",
+    "solution": "Charge and force restart",
+    "severity": "High"
+  },
+  {
+    "id": 47,
+    "problem": "iPad/Tablet Battery drains quickly",
+    "symptoms": "Battery runs out fast",
+    "possible_cause": "Heavy apps or old battery",
+    "solution": "Reduce app use and battery settings",
+    "severity": "Medium"
+  },
+  {
+    "id": 48,
+    "problem": "iPad/Tablet Touchscreen not responding",
+    "symptoms": "Touch does not work",
+    "possible_cause": "Screen or Software problem",
+    "solution": "Restart and check screen",
+    "severity": "High"
+  },
+  {
+    "id": 49,
+    "problem": "iPad/Tablet cannot connect to Wi-Fi",
+    "symptoms": "Wi-Fi does not connect",
+    "possible_cause": "Network or settings issue",
+    "solution": "Reconnect and restart router",
+    "severity": "Medium"
+  },
+  {
+    "id": 50,
+    "problem": "iPad/Tablet Apps keep crashing",
+    "symptoms": "Apps close unexpectedly",
+    "possible_cause": "Outdated app or low storage",
+    "solution": "Update apps and free storage",
+    "severity": "Medium"
+  },
+  {
+    "id": 51,
+    "problem": "iPad/Tablet storage is full",
+    "symptoms": "Cannot save files",
+    "possible_cause": "Too many files/apps",
+    "solution": "Delete unnecessary files",
+    "severity": "Medium"
+  },
+  {
+    "id": 52,
+    "problem": "iPad/Tablet overheating",
+    "symptoms": "Tablet becomes very hot",
+    "possible_cause": "Heavy use or poor airflow",
+    "solution": "Close apps and let it cool",
+    "severity": "High"
+  },
+  {
+    "id": 53,
+    "problem": "iPad/Tablet Bluetooth not working",
+    "symptoms": "Bluetooth cannot connect",
+    "possible_cause": "Bluetooth error",
+    "solution": "Restart Bluetooth and device",
+    "severity": "Low"
+  },
+  {
+    "id": 54,
+    "problem": "Monitor cannot charge",
+    "symptoms": "Monitor does not power on",
+    "possible_cause": "Power cable or outlet problem",
+    "solution": "Check power cable and outlet",
+    "severity": "High"
+  },
+  {
+    "id": 55,
+    "problem": "Monitor No Signal",
+    "symptoms": "Screen says “No Signal”",
+    "possible_cause": "Loose HDMI/DP cable",
+    "solution": "Reconnect or replace display cable",
+    "severity": "High"
+  },
+  {
+    "id": 56,
+    "problem": "Monitor Screen is flickering",
+    "symptoms": "Screen keeps flashing",
+    "possible_cause": "Cable or refresh-rate problem",
+    "solution": "Check cable and display settings",
+    "severity": "High"
+  },
+  {
+    "id": 57,
+    "problem": "Monitor is too dark",
+    "symptoms": "Display is difficult to see",
+    "possible_cause": "Low brightness",
+    "solution": "Adjust brightness settings",
+    "severity": "Low"
+  },
+  {
+    "id": 58,
+    "problem": "Monitor Wrong screen resolution",
+    "symptoms": "Screen looks stretched or unclear",
+    "possible_cause": "Incorrect resolution setting",
+    "solution": "Set recommended resolution",
+    "severity": "Low"
+  },
+  {
+    "id": 59,
+    "problem": "Monitor HDMI/DisplayPort not detected",
+    "symptoms": "External display is not detected",
+    "possible_cause": "Cable or port problem",
+    "solution": "Reconnect cable or try another port",
+    "severity": "Medium"
+  },
+  {
+    "id": 60,
+    "problem": "Monitor No audio from monitor",
+    "symptoms": "Monitor has no sound",
+    "possible_cause": "Audio output setting or cable",
+    "solution": "Check audio settings and connection",
+    "severity": "Low"
+  },
+  {
+    "id": 61,
+    "problem": "Printer not printing",
+    "symptoms": "Printer does not print documents",
+    "possible_cause": "Offline printer or connection issue",
+    "solution": "Check connection, paper and printer status",
+    "severity": "Medium"
+  },
+  {
+    "id": 62,
+    "problem": "Printer Paper jam offline",
+    "symptoms": "Paper is stuck",
+    "possible_cause": "Incorrect paper replacement",
+    "solution": "Remove stuck paper carefully",
+    "severity": "Medium"
+  },
+  {
+    "id": 63,
+    "problem": "Paper Ink/Toner not detected",
+    "symptoms": "Printer says int/toner is missing",
+    "possible_cause": "Incorrect or empty cartridge",
+    "solution": "Reinstall or replace cartridge",
+    "severity": "Medium"
+  },
+  {
+    "id": 64,
+    "problem": "Router No internet connection",
+    "symptoms": "Connected devices have no internet",
+    "possible_cause": "ISP or router problem",
+    "solution": "Restart router and check connection",
+    "severity": "High"
+  },
+  {
+    "id": 65,
+    "problem": "Router Wi-Fi is very slow",
+    "symptoms": "Internet speed is slow",
+    "possible_cause": "Many connected devices or weak signal",
+    "solution": "Disconnect unused devices and reposition router",
+    "severity": "Medium"
+  },
+  {
+    "id": 66,
+    "problem": "Router keeps restarting",
+    "symptoms": "Router repeatedly turns off/on",
+    "possible_cause": "Power or overheating problem",
+    "solution": "Check power adapter and ventilation",
+    "severity": "High"
+  },
+  {
+    "id": 67,
+    "problem": "Router Wi-Fi signal is weak",
+    "symptoms": "Poor connection in some areas",
+    "possible_cause": "Distance or obstacles",
+    "solution": "Move router to a better location",
+    "severity": "Medium"
+  },
+  {
+    "id": 68,
+    "problem": "Router Device cannot connect to Wi-Fi",
+    "symptoms": "Device cannot join network",
+    "possible_cause": "Wrong password or router issue",
+    "solution": "Check password and restart router",
+    "severity": "Medium"
+  },
+  {
+    "id": 69,
+    "problem": "Router Internet disconnects frequently",
+    "symptoms": "Internet connection drops",
+    "possible_cause": "ISP, router, or router signal issue",
+    "solution": "Restart router and check ISP connection",
+    "severity": "High"
+  }
+]
