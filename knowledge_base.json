@@ -2,7 +2,6 @@
   {
     "id": 1,
     "problem": "Desktop No Display",
-    "keywords": [],
     "symptoms": "Monitor shows nothing",
     "possible_cause": "Loose cable, RAM, GPU",
     "solution": "Make sure the cables are plugged in tight, reseat the RAM, and reconnect the GPU",
@@ -11,7 +10,6 @@
   {
     "id": 2,
     "problem": "Desktop Computer does not turn on",
-    "keywords": [],
     "symptoms": "No lights or fan",
     "possible_cause": "Power cable, PSU, outlet",
     "solution": "Double-check the power cable and PSU, and try a different outlet",
@@ -20,7 +18,6 @@
   {
     "id": 3,
     "problem": "Desktop overheating",
-    "keywords": [],
     "symptoms": "Computer becomes very hot",
     "possible_cause": "Dust, poor airflow, bad fan",
     "solution": "Give the fans a good clean and make sure air can flow freely",
@@ -29,7 +26,6 @@
   {
     "id": 4,
     "problem": "Desktop Blue Screen",
-    "keywords": [],
     "symptoms": "Blue screen appears",
     "possible_cause": "Driver or hardware problem",
     "solution": "Update the drivers and check the hardware for issues",
@@ -38,7 +34,6 @@
   {
     "id": 5,
     "problem": "Desktop Computer is very slow",
-    "keywords": [],
     "symptoms": "Programs load slowly",
     "possible_cause": "Low RAM, full storage",
     "solution": "Clear some storage space and close apps you're not using",
@@ -47,7 +42,6 @@
   {
     "id": 6,
     "problem": "Desktop Takes too long to boot",
-    "keywords": [],
     "symptoms": "Long startup time",
     "possible_cause": "Too many startup programs",
     "solution": "Turn off the startup apps you don't really need",
@@ -56,7 +50,6 @@
   {
     "id": 7,
     "problem": "Desktop Random shutdown",
-    "keywords": [],
     "symptoms": "Computer suddenly turns off",
     "possible_cause": "Overheating or power problem",
     "solution": "Check how hot it's running and test the power supply",
@@ -65,7 +58,6 @@
   {
     "id": 8,
     "problem": "Desktop Random restart",
-    "keywords": [],
     "symptoms": "Computer restarts by itself",
     "possible_cause": "Hardware or Software error",
     "solution": "Go through the drivers, RAM, and temperature to find the culprit",
@@ -74,7 +66,6 @@
   {
     "id": 9,
     "problem": "Desktop Loud fan noise",
-    "keywords": [],
     "symptoms": "Fan is very loud",
     "possible_cause": "Dust or high temperature",
     "solution": "Clean out the fan and vents to quiet it down",
@@ -83,7 +74,6 @@
   {
     "id": 10,
     "problem": "Desktop Keyboard not working",
-    "keywords": [],
     "symptoms": "Keyboard does not respond",
     "possible_cause": "Loose USB or faulty keyboard",
     "solution": "Unplug and replug it, or swap in a different keyboard",
@@ -92,7 +82,6 @@
   {
     "id": 11,
     "problem": "Desktop Mouse not working",
-    "keywords": [],
     "symptoms": "Mouse does not move",
     "possible_cause": "Loose USB or faulty mouse",
     "solution": "Unplug and replug it, or try a different mouse",
@@ -101,7 +90,6 @@
   {
     "id": 12,
     "problem": "Desktop USB port not detecting device",
-    "keywords": [],
     "symptoms": "USB device is not recognized",
     "possible_cause": "Damaged port or driver",
     "solution": "Plug it into another port and update the drivers",
@@ -110,7 +98,6 @@
   {
     "id": 13,
     "problem": "Desktop No sound",
-    "keywords": [],
     "symptoms": "No audio from speakers",
     "possible_cause": "Muted sounds or driver issue",
     "solution": "Check that nothing's muted and update the audio drivers",
@@ -119,7 +106,6 @@
   {
     "id": 14,
     "problem": "Desktop Internet connection unavailable",
-    "keywords": [],
     "symptoms": "Cannot access internet",
     "possible_cause": "Network or cable problem",
     "solution": "Inspect the network cable and give the router a check",
@@ -128,7 +114,6 @@
   {
     "id": 15,
     "problem": "Desktop Wi-Fi keeps disconnecting",
-    "keywords": [],
     "symptoms": "Wi-Fi frequently disconnects",
     "possible_cause": "Weak signal or driver issue",
     "solution": "Get closer to the router and update the driver",
@@ -137,7 +122,6 @@
   {
     "id": 16,
     "problem": "Desktop Applications keep crashing",
-    "keywords": [],
     "symptoms": "Apps close unexpectedly",
     "possible_cause": "Software errors or low memory",
     "solution": "Update the app or reinstall it from scratch",
@@ -146,7 +130,6 @@
   {
     "id": 17,
     "problem": "Desktop Windows update stuck",
-    "keywords": [],
     "symptoms": "Update does not finish",
     "possible_cause": "Internet or system issue",
     "solution": "Reboot and give the update another try",
@@ -155,7 +138,6 @@
   {
     "id": 18,
     "problem": "Desktop Storage is full",
-    "keywords": [],
     "symptoms": "Cannot save files",
     "possible_cause": "Too many files",
     "solution": "Clear out the files you don't need anymore",
@@ -164,7 +146,6 @@
   {
     "id": 19,
     "problem": "Desktop System freezes",
-    "keywords": [],
     "symptoms": "Computer stops responding",
     "possible_cause": "Low memory or overheating",
     "solution": "Restart it, then check the RAM and temperature",
@@ -173,7 +154,6 @@
   {
     "id": 20,
     "problem": "Desktop Cannot install software",
-    "keywords": [],
     "symptoms": "Installation fails",
     "possible_cause": "Low storage or permissions",
     "solution": "Free up some space and run the installer the right way",
@@ -182,7 +162,6 @@
   {
     "id": 21,
     "problem": "Laptop Battery drains quickly",
-    "keywords": [],
     "symptoms": "Battery loses charge fast",
     "possible_cause": "Old battery or many apps",
     "solution": "Cut down on background apps and have the battery checked",
@@ -191,7 +170,6 @@
   {
     "id": 22,
     "problem": "Laptop does not charge",
-    "keywords": [],
     "symptoms": "Battery percentage does not increase",
     "possible_cause": "Charger or charging port problem",
     "solution": "Inspect the charger and the charging port for damage",
@@ -200,7 +178,6 @@
   {
     "id": 23,
     "problem": "Laptop overheats",
-    "keywords": [],
     "symptoms": "Laptop becomes very hot",
     "possible_cause": "Dust or blocked vents",
     "solution": "Clean the vents and let it breathe properly",
@@ -209,7 +186,6 @@
   {
     "id": 24,
     "problem": "Laptop screen flickers",
-    "keywords": [],
     "symptoms": "Screen flashes or blinks",
     "possible_cause": "Driver or display cable issue",
     "solution": "Update the display driver and check the cable",
@@ -218,7 +194,6 @@
   {
     "id": 25,
     "problem": "Laptop touchpad not working",
-    "keywords": [],
     "symptoms": "Cursor does not move",
     "possible_cause": "Touchpad disabled or driver issue",
     "solution": "Turn the touchpad back on and update its driver",
@@ -227,7 +202,6 @@
   {
     "id": 26,
     "problem": "Laptop Keyboard keys not responding",
-    "keywords": [],
     "symptoms": "Some keys do not work",
     "possible_cause": "Dirt or damaged keyboard",
     "solution": "Give it a clean, or replace the keyboard if it's damaged",
@@ -236,7 +210,6 @@
   {
     "id": 27,
     "problem": "Laptop fan is too loud",
-    "keywords": [],
     "symptoms": "Fan makes loud noise",
     "possible_cause": "Dust or overheating",
     "solution": "Clean the fan and vents to bring the noise down",
@@ -245,7 +218,6 @@
   {
     "id": 28,
     "problem": "Laptop shuts down unexpectedly",
-    "keywords": [],
     "symptoms": "Laptop turns off suddenly",
     "possible_cause": "Overheating or battery problem",
     "solution": "Check the temperature and battery health",
@@ -254,7 +226,6 @@
   {
     "id": 29,
     "problem": "Laptop cannot connect to Wi-Fi",
-    "keywords": [],
     "symptoms": "Wi-Fi will not connect",
     "possible_cause": "Driver or router problem",
     "solution": "Toggle Wi-Fi off and on, then update the driver",
@@ -263,7 +234,6 @@
   {
     "id": 30,
     "problem": "Laptop takes too long to start",
-    "keywords": [],
     "symptoms": "Slow startup",
     "possible_cause": "Too many startup programs",
     "solution": "Disable the startup apps you don't need",
@@ -272,7 +242,6 @@
   {
     "id": 31,
     "problem": "Smartphone does not turn on",
-    "keywords": [],
     "symptoms": "Screen stays black",
     "possible_cause": "Empty battery or system error",
     "solution": "Charge it up and do a force restart",
@@ -281,7 +250,6 @@
   {
     "id": 32,
     "problem": "Smartphone battery drains quickly",
-    "keywords": [],
     "symptoms": "Battery runs out fast",
     "possible_cause": "Background apps or old battery",
     "solution": "Close the apps running in the background and cut back on battery use",
@@ -290,7 +258,6 @@
   {
     "id": 33,
     "problem": "Smartphone overheats",
-    "keywords": [],
     "symptoms": "Phone becomes very hot",
     "possible_cause": "Heavy apps or charging",
     "solution": "Close the heavy apps and let the phone cool down",
@@ -299,7 +266,6 @@
   {
     "id": 34,
     "problem": "Smartphone is running slowly",
-    "keywords": [],
     "symptoms": "Apps respond slowly",
     "possible_cause": "Full storage or too many apps",
     "solution": "Free up storage and shut down the apps you're not using",
@@ -308,7 +274,6 @@
   {
     "id": 35,
     "problem": "Smartphone touchscreen not responding",
-    "keywords": [],
     "symptoms": "Touch does not work",
     "possible_cause": "Screen damage or system error",
     "solution": "Restart it and check whether the screen is damaged",
@@ -317,7 +282,6 @@
   {
     "id": 36,
     "problem": "Smartphone cannot connect to Wi-Fi",
-    "keywords": [],
     "symptoms": "Wi-Fi will not connect",
     "possible_cause": "Wrong password or network issue",
     "solution": "Reconnect to the Wi-Fi and restart the router",
@@ -326,7 +290,6 @@
   {
     "id": 37,
     "problem": "Smartphone Mobile data not working",
-    "keywords": [],
     "symptoms": "No internet using mobile data",
     "possible_cause": "Data disabled or signal problem",
     "solution": "Turn mobile data on and check your signal",
@@ -335,7 +298,6 @@
   {
     "id": 38,
     "problem": "Smartphone Bluetooth not connecting",
-    "keywords": [],
     "symptoms": "Device will not pair",
     "possible_cause": "Bluetooth error or distance",
     "solution": "Restart Bluetooth and keep the devices close together",
@@ -344,7 +306,6 @@
   {
     "id": 39,
     "problem": "Smartphone Apps keep crashing",
-    "keywords": [],
     "symptoms": "Apps close suddenly",
     "possible_cause": "Outdated app or low storage",
     "solution": "Update or reinstall the app, and clear some storage",
@@ -353,7 +314,6 @@
   {
     "id": 40,
     "problem": "Smartphone Phone storage is full",
-    "keywords": [],
     "symptoms": "Cannot save files",
     "possible_cause": "Too many apps/photos",
     "solution": "Delete or move the files you don't need",
@@ -362,7 +322,6 @@
   {
     "id": 41,
     "problem": "Smartphone Camera not working",
-    "keywords": [],
     "symptoms": "Camera will not open",
     "possible_cause": "App or camera error",
     "solution": "Restart the phone or update the camera app",
@@ -371,7 +330,6 @@
   {
     "id": 42,
     "problem": "Smartphone Microphone not working",
-    "keywords": [],
     "symptoms": "Other people cannot hear you",
     "possible_cause": "Blocked or damaged microphone",
     "solution": "Clean the microphone and check the app permissions",
@@ -380,7 +338,6 @@
   {
     "id": 43,
     "problem": "Smartphone speaker has no sound",
-    "keywords": [],
     "symptoms": "No sound from speaker",
     "possible_cause": "Muted or speaker problem",
     "solution": "Check the volume and restart the phone",
@@ -389,7 +346,6 @@
   {
     "id": 44,
     "problem": "Smartphone Phone cannot charge",
-    "keywords": [],
     "symptoms": "Battery does not charge",
     "possible_cause": "Cable, charger, or port problem",
     "solution": "Try a different charger and clean out the charging port",
@@ -398,7 +354,6 @@
   {
     "id": 45,
     "problem": "iPad/Tablet Screen keeps freezing",
-    "keywords": [],
     "symptoms": "Screen stops responding",
     "possible_cause": "Software or memory problem",
     "solution": "Restart it and make sure the software is up to date",
@@ -407,7 +362,6 @@
   {
     "id": 46,
     "problem": "iPad/Tablet does not turn on",
-    "keywords": [],
     "symptoms": "Screen stays black",
     "possible_cause": "Empty battery or system error",
     "solution": "Charge it and do a force restart",
@@ -416,7 +370,6 @@
   {
     "id": 47,
     "problem": "iPad/Tablet Battery drains quickly",
-    "keywords": [],
     "symptoms": "Battery runs out fast",
     "possible_cause": "Heavy apps or old battery",
     "solution": "Use fewer apps and tweak the battery settings",
@@ -425,7 +378,6 @@
   {
     "id": 48,
     "problem": "iPad/Tablet Touchscreen not responding",
-    "keywords": [],
     "symptoms": "Touch does not work",
     "possible_cause": "Screen or Software problem",
     "solution": "Restart it and check whether the screen is the issue",
@@ -434,7 +386,6 @@
   {
     "id": 49,
     "problem": "iPad/Tablet cannot connect to Wi-Fi",
-    "keywords": [],
     "symptoms": "Wi-Fi does not connect",
     "possible_cause": "Network or settings issue",
     "solution": "Reconnect to the Wi-Fi and restart the router",
@@ -443,7 +394,6 @@
   {
     "id": 50,
     "problem": "iPad/Tablet Apps keep crashing",
-    "keywords": [],
     "symptoms": "Apps close unexpectedly",
     "possible_cause": "Outdated app or low storage",
     "solution": "Update the apps and free up some storage",
@@ -452,7 +402,6 @@
   {
     "id": 51,
     "problem": "iPad/Tablet storage is full",
-    "keywords": [],
     "symptoms": "Cannot save files",
     "possible_cause": "Too many files/apps",
     "solution": "Delete the files you don't need anymore",
@@ -461,7 +410,6 @@
   {
     "id": 52,
     "problem": "iPad/Tablet overheating",
-    "keywords": [],
     "symptoms": "Tablet becomes very hot",
     "possible_cause": "Heavy use or poor airflow",
     "solution": "Close the apps and let it cool down",
@@ -470,7 +418,6 @@
   {
     "id": 53,
     "problem": "iPad/Tablet Bluetooth not working",
-    "keywords": [],
     "symptoms": "Bluetooth cannot connect",
     "possible_cause": "Bluetooth error",
     "solution": "Restart Bluetooth and the device you're pairing with",
@@ -479,7 +426,6 @@
   {
     "id": 54,
     "problem": "Monitor cannot charge",
-    "keywords": [],
     "symptoms": "Monitor does not power on",
     "possible_cause": "Power cable or outlet problem",
     "solution": "Check the power cable and try a different outlet",
@@ -488,7 +434,6 @@
   {
     "id": 55,
     "problem": "Monitor No Signal",
-    "keywords": [],
     "symptoms": "Screen says “No Signal”",
     "possible_cause": "Loose HDMI/DP cable",
     "solution": "Replug the display cable or swap it for a new one",
@@ -497,7 +442,6 @@
   {
     "id": 56,
     "problem": "Monitor Screen is flickering",
-    "keywords": [],
     "symptoms": "Screen keeps flashing",
     "possible_cause": "Cable or refresh-rate problem",
     "solution": "Check the cable and adjust the display settings",
@@ -506,7 +450,6 @@
   {
     "id": 57,
     "problem": "Monitor is too dark",
-    "keywords": [],
     "symptoms": "Display is difficult to see",
     "possible_cause": "Low brightness",
     "solution": "Turn up the brightness in the settings",
@@ -515,7 +458,6 @@
   {
     "id": 58,
     "problem": "Monitor Wrong screen resolution",
-    "keywords": [],
     "symptoms": "Screen looks stretched or unclear",
     "possible_cause": "Incorrect resolution setting",
     "solution": "Set it to the recommended resolution",
@@ -524,7 +466,6 @@
   {
     "id": 59,
     "problem": "Monitor HDMI/DisplayPort not detected",
-    "keywords": [],
     "symptoms": "External display is not detected",
     "possible_cause": "Cable or port problem",
     "solution": "Replug the cable or try a different port",
@@ -533,7 +474,6 @@
   {
     "id": 60,
     "problem": "Monitor No audio from monitor",
-    "keywords": [],
     "symptoms": "Monitor has no sound",
     "possible_cause": "Audio output setting or cable",
     "solution": "Check the audio settings and the connection",
@@ -542,7 +482,6 @@
   {
     "id": 61,
     "problem": "Printer not printing",
-    "keywords": [],
     "symptoms": "Printer does not print documents",
     "possible_cause": "Offline printer or connection issue",
     "solution": "Check the connection, the paper, and whether the printer is online",
@@ -551,7 +490,6 @@
   {
     "id": 62,
     "problem": "Printer Paper Jam",
-    "keywords": [],
     "symptoms": "Paper is stuck",
     "possible_cause": "Incorrect paper replacement",
     "solution": "Gently pull out the stuck paper",
@@ -560,7 +498,6 @@
   {
     "id": 63,
     "problem": "Printer Ink/Toner not detected",
-    "keywords": [],
     "symptoms": "Printer says int/toner is missing",
     "possible_cause": "Incorrect or empty cartridge",
     "solution": "Take the cartridge out and put it back in, or replace it",
@@ -569,7 +506,6 @@
   {
     "id": 64,
     "problem": "Router No internet connection",
-    "keywords": [],
     "symptoms": "Connected devices have no internet",
     "possible_cause": "ISP or router problem",
     "solution": "Restart the router and check the connection",
@@ -578,7 +514,6 @@
   {
     "id": 65,
     "problem": "Router Wi-Fi is very slow",
-    "keywords": [],
     "symptoms": "Internet speed is slow",
     "possible_cause": "Many connected devices or weak signal",
     "solution": "Disconnect the devices you're not using and move the router somewhere better",
@@ -587,7 +522,6 @@
   {
     "id": 66,
     "problem": "Router keeps restarting",
-    "keywords": [],
     "symptoms": "Router repeatedly turns off/on",
     "possible_cause": "Power or overheating problem",
     "solution": "Check the power adapter and make sure it's well ventilated",
@@ -596,7 +530,6 @@
   {
     "id": 67,
     "problem": "Router Wi-Fi signal is weak",
-    "keywords": [],
     "symptoms": "Poor connection in some areas",
     "possible_cause": "Distance or obstacles",
     "solution": "Move the router to a spot with a clearer path",
@@ -605,7 +538,6 @@
   {
     "id": 68,
     "problem": "Router Device cannot connect to Wi-Fi",
-    "keywords": [],
     "symptoms": "Device cannot join network",
     "possible_cause": "Wrong password or router issue",
     "solution": "Check the password and restart the router",
@@ -614,7 +546,6 @@
   {
     "id": 69,
     "problem": "Router Internet disconnects frequently",
-    "keywords": [],
     "symptoms": "Internet connection drops",
     "possible_cause": "ISP, router, or router signal issue",
     "solution": "Restart the router and check with your ISP",
