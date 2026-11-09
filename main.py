@@ -79,7 +79,7 @@ FOLLOW_UP_RULES = {
         "Is the router powered on?",
         "Can other devices connect to the internet?",
         "Is the connection slow, unavailable, or disconnecting frequently?",
-        "Does the problem affect Wi-Fi, mobile data, or both?",
+        "Does the problem affect both Wi-Fi and mobile data?",
     ],
     "Software & Applications": [
         "Does the application close unexpectedly or fail to open?",
@@ -104,18 +104,18 @@ FOLLOW_UP_RULES = {
     ],
     "Audio": [
         "Is the volume turned up and unmuted?",
-        "Is the problem with the microphone or the speaker?",
+        "Is the issue affecting both the microphone and speaker?",
         "Does the issue happen with every application?",
     ],
     "Printer": [
         "Is the printer powered on and connected to the computer or network?",
         "Is there a paper jam?",
-        "Does the printer show an ink or toner warning?",
+        "Is there an ink or toner warning on the printer?",
     ],
     "Device Connection": [
         "Is Bluetooth enabled, if applicable?",
         "Is the device connected to the correct port or network?",
-        "Does the device work when connected to another port or paired again?",
+        "Does the device work after reconnecting it or pairing it again?",
     ],
 }
 
